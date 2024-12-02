@@ -1,4 +1,7 @@
+import os
 import re
+
+os.system("figlet 'Password checker'")
 
 def check_password_strength(password):
     # Initialize criteria
