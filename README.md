@@ -22,21 +22,19 @@ To run the Password Strength Checker Tool locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/itzmeimran2005/password-strength-checker.git2.
+   git clone https://github.com/itzmeimran2005/password-strength-checker.git.
    
 2.Navigate to the project directory:
-
-   cd password-strength-checker
+   ```bash
+     cd password-strength-checker
    
 3.Install the required dependencies (if applicable):
-
   Copy code
     # For Python
         pip install -r requirements.txt
 
 4.Run the application
-
 # For Python
   ```bash
-python password.py
+  python password.py
 
